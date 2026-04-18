@@ -1,0 +1,4 @@
+*.tar.gz
+*.pth
+logs/
+data/
