@@ -1,0 +1,4 @@
+/CIFAR10模型训练/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+/数据集的处理/数据集的基本处理/dataset/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+/神经网络/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+/神经网络/logs/events.out.tfevents.1776355369.haoyedeMacBook-Air.local.2797.3 filter=lfs diff=lfs merge=lfs -text
